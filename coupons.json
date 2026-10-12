@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "updated": "2026-10-10",
+  "default": ["WELCOME10", "SAVE10"],
+  "sites": {
+    "example-store.com": ["EXAMPLE15", "FREESHIP"]
+  }
+}
